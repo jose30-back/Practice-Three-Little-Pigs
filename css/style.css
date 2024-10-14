@@ -5,3 +5,30 @@
     border-radius: 5px;
 }
 
+.imagen1 {
+    width: 512px;
+    border-radius: 5px;
+}
+
+.section-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-1 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+h2 , h3 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+p {
+    width: 500px
+}
